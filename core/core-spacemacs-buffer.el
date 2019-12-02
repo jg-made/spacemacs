@@ -37,7 +37,7 @@ See `dotspacemacs-startup-buffer-responsive'.")
   "Length used for startup lists with otherwise unspecified bounds.
 Set to nil for unbounded.")
 
-(defvar spacemacs-buffer--release-note-version nil
+(defvar spacemacs-buffer--release-note-version "9999999999"
   "If nil the release note is displayed.
 If non nil it contains a version number, if the version number is lesser than
 the current version the release note it displayed")
